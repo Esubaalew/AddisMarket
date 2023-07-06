@@ -30,9 +30,15 @@ https://github.com/Esubaalew/AddisMarket/blob/main/Demo/appdemo.gif
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
+![Sign up page](https://github.com/Esubaalew/AddisStore/blob/main/Screenshots/photo_10_2023-07-07_01-26-49.jpg)
+![Login page](https://github.com/Esubaalew/AddisStore/blob/main/Screenshots/photo_1_2023-07-07_01-26-49.jpg)
+![Starting page](https://github.com/Esubaalew/AddisStore/blob/main/Screenshots/photo_2_2023-07-07_01-26-49.jpg)
+![Cart page](https://github.com/Esubaalew/AddisStore/blob/main/Screenshots/photo_3_2023-07-07_01-26-49.jpg)
+![Cart Checkout page](https://github.com/Esubaalew/AddisStore/blob/main/Screenshots/photo_4_2023-07-07_01-26-49.jpg)
+![Store page](https://github.com/Esubaalew/AddisStore/blob/main/Screenshots/photo_6_2023-07-07_01-26-49.jpg)
+![Search Store page](https://github.com/Esubaalew/AddisStore/blob/main/Screenshots/photo_7_2023-07-07_01-26-49.jpg)
+![Purchase](https://github.com/Esubaalew/AddisStore/blob/main/Screenshots/photo_8_2023-07-07_01-26-49.jpg)
+![Product details page](https://github.com/Esubaalew/AddisStore/blob/main/Screenshots/photo_9_2023-07-07_01-26-49.jpg)
 ## Run Locally
 
 Clone the project
